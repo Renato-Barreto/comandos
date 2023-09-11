@@ -1,0 +1,13 @@
+Algoritmo "semnome"
+
+Var
+
+ i: inteiro
+
+Inicio
+   //executar algo por determinada quantidade de vezes (loop)
+   para i de 1 ate 10 passo 2 faca
+      escreval("Valor de i: ",i)
+   fimpara
+
+Fimalgoritmo
